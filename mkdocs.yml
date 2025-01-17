@@ -1,0 +1,4 @@
+site_name: Documentation for Syracuse LGAD Timing studies
+site_url: https://vetens.github.io/syrlgadtiming
+theme:
+  name: material
